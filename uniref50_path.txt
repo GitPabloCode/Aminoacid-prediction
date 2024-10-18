@@ -1,0 +1,3 @@
+https://www.uniprot.org/help/downloads
+
+DOWNLOAD UNIREF50.FASTA
